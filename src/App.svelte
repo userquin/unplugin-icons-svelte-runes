@@ -17,7 +17,8 @@
   {@html RawMdiAlarmOff}
   {@html RawMdiAlarmOff2}
   <br/>
-  <a href='/__inspect'>inspect</a>
+  <br/>
+  <a href='/__inspect'>Open vite-plugin-inspect</a>
 </main>
 
 <style>

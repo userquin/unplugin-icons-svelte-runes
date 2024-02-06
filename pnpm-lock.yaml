@@ -1582,7 +1582,7 @@ packages:
     dev: true
 
   file:unplugin-icons-0.18.5.tgz:
-    resolution: {integrity: sha512-4ssYJHV1qAes9yJ4Ekd2eJ2dSyR218IWCRifqgNGoki+lrojOSWwXEzV2oJWvx5hnxXKAuiJBLHaMT8jvkTwcA==, tarball: file:unplugin-icons-0.18.5.tgz}
+    resolution: {integrity: sha512-UiJRBi3dC0QxADdgSB+1GQQhleSC6jza4BAi1M8Bv/QJ696Ll5IOjvOq/eUwQmRam/RX8IOqECG0BX83YHX0Ug==, tarball: file:unplugin-icons-0.18.5.tgz}
     name: unplugin-icons
     version: 0.18.5
     peerDependencies:
