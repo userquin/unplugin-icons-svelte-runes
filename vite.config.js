@@ -14,10 +14,13 @@ const options = process.env.CUSTOM_COMPILER === 'true'
   : { compiler: 'svelte' }
 
 export default defineConfig({
+  build: {
+    sourcemap: true,
+  },
   plugins: [
     svelte(),
     Icons(options),
-    PluginInspect(),
+    PluginInspect({ build: true }),
   ],
 })
 
